@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassMat
+  m_Shader: {fileID: -6465566751694194690, guid: 448a566fbc1dac24585d635f746519a5,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_DD589365:
+        m_Texture: {fileID: 2800000, guid: a223121ee613e5b4785224ad83c9b709, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_3612E124_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d7bc60b7c0820d34cb0c649b759b05ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_8A0F1CA8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d7bc60b7c0820d34cb0c649b759b05ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_89C25661_Out_0:
+        m_Texture: {fileID: 2800000, guid: a223121ee613e5b4785224ad83c9b709, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Root_Level: 0
+    - Vector1_208F762E: 0
+    - Vector1_517CD281: -0.02
+    - Vector1_5D628044: 0.75
+    - Vector1_611C4BBB: 0.43
+    - Vector1_7E9CDF51: 0
+    - Vector1_8517281A: -2.03
+    - Vector1_8E2DD042: 2
+    - Vector1_8F4664F0: 0
+    - Vector1_9F6878A3: 15
+    - Vector1_C0AA0F6: 0
+    - Vector1_D7A76E56: -0.43
+    - Vector1_DD3E755E: 5
+    - Vector1_DF6CB6CB: 1.08
+    - Vector1_E0B18E10: 1.93
+    - Vector1_E0D8B716: 0.11
+    m_Colors:
+    - Color_38CF565E: {r: 0.26824808, g: 0.509434, b: 0.18503025, a: 0}
+    - Color_78E94D9D: {r: 6.964403, g: 6.3762317, b: 0.82127386, a: 0}
+    - Vector2_E70AF842: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Vector2_F18623C0: {r: 1, g: 1, b: 1, a: 1}
+    - Vector3_49E84294: {r: 0.2, g: 0, b: 4.62, a: 0}
+    - Vector3_7D686D09: {r: -5, g: 5, b: 0, a: 0}
+    - Vector3_93AE637C: {r: 0, g: -0.94, b: 0, a: 0}
+    - Vector4_859274FB: {r: 1, g: 1, b: 0, a: 0}
+    - _PlayerPos: {r: 0, g: 0, b: 0, a: 0}
